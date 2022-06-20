@@ -1,0 +1,42 @@
+.navbar{
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    padding-top:10em;
+}
+.place-holder-image{
+    background-color: grey;
+    padding: 10em 10em 10em 10em;
+}
+.about-section{
+    font-family: 'Playfair Display', serif;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    text-align: center;
+  
+
+}
+.about-section p{
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+
+.footer-links-container{
+   
+    width: 20em;
+    
+}
+footer{
+    padding-top: 10em;
+    padding-bottom: 2em;
+    
+}
+footer a{
+    text-decoration: none;
+    color: grey;
+}
+.email-address{
+    font-family: 'Playfair Display', serif;
+}
